@@ -1,0 +1,9 @@
+streamlit
+langchain==0.2.13
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+huggingface-hub==0.23.5
+pypdf
+python-dotenv
